@@ -1,0 +1,15 @@
+{
+    "title": "New Proji",
+    "baseURL": "https:\/\/videos.proji.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "proji.com"
+    }
+}
